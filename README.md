@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Apoorv-Raj777
-- 👀 I’m interested in ...practical use of coding 
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Any beginner level project using Java
-- 📫 How to reach me ... linkedin.com/in/apoorv-raj-8ab6b8291
+Hi there, I'm Apoorv Raj 👋
+I'm a developer passionate about the practical application of code to solve real-world problems.
 
-<!---
-Apoorv-Raj777/Apoorv-Raj777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 My Skills: PHP | JavaScript | HTML | CSS | MySQL | MongoDB
+
+🌱 I’m currently learning: Java, with a focus on backend development and object-oriented principles.
+
+💞️ I’m looking to collaborate on: Any beginner-level Java projects where I can contribute and learn from others.
+
+📫 How to reach me: You can connect with me on LinkedIn.
+https://www.linkedin.com/in/apoorv-raj-8ab6b8291/
