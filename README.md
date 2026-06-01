@@ -62,72 +62,30 @@ $ motto
 
 ## 🚀 Featured Projects
 
-### 🛡️ SARTHI — Crowdsourced Public Safety Platform
-
-- Flask-based backend architecture
-- Firebase Authentication
-- Safety score prediction using Machine Learning
-- Geospatial risk analysis
-- REST API development
-- Safe route computation
-
-**Tech:** Flask • Firebase • scikit-learn • Python • JavaScript
-
----
-
-### 🛒 ShoppR — E-Commerce Platform
-
-- Authentication & Authorization
-- Cart Management System
-- Order Processing
-- Admin Dashboard
-- Relational Database Design
-
-**Tech:** PHP • MySQL • Bootstrap • JavaScript
-
----
-
-### 💬 CONVOA — Q&A Platform
-
-- Secure User Authentication
-- CRUD Operations
-- Optimized Database Queries
-- Responsive Design
-
-**Tech:** PHP • MySQL
+| Project | Description & Key Features | Tech Stack |
+| :--- | :--- | :--- |
+| **🛡️ SARTHI** | Crowdsourced public safety platform utilizing geospatial risk analysis and Machine Learning safety score prediction. Features Firebase Auth and safe route computation. | `Flask` `Firebase` `scikit-learn` `Python` `JavaScript` |
+| **🛒 ShoppR** | A complete E-Commerce platform with secure user authentication, optimized cart management system, order processing, and a custom admin dashboard. | `PHP` `MySQL` `Bootstrap` `JavaScript` |
+| **💬 CONVOA** | High-performance Q&A platform with secure user authentication, full CRUD operations, optimized database querying, and fully responsive design. | `PHP` `MySQL` |
 
 ---
 
 ## 💼 Experience
 
-### Web Development Intern
-**Central Coalfields Limited (CCL)**
-
-- Developed CONVOA, a full-stack Q&A platform
-- Implemented secure authentication systems
-- Designed relational databases
-- Optimized backend queries
-
----
-
-### Full Stack Web Development Intern
-**Future Interns**
-
-- Developed full-stack web applications
-- Implemented authentication workflows
-- Designed and optimized SQL databases
-- Applied modular architecture principles
+| Role & Organization | Key Contributions & Impact |
+| :--- | :--- |
+| **Web Development Intern** <br> 🏢 *Central Coalfields Limited (CCL)* | • Developed **CONVOA**, a full-stack Q&A platform.<br>• Implemented secure user authentication systems.<br>• Designed and optimized high-performance relational databases. |
+| **Full Stack Web Intern** <br> 🏢 *Future Interns* | • Engineered responsive full-stack web applications.<br>• Set up robust authentication workflows and modular architecture.<br>• Structured and optimized relational SQL database systems. |
 
 ---
 
 ## 📚 Core Areas
 
-- 🧠 **Data Structures & Algorithms**
-- ⚙️ **Backend Development & REST API Design**
-- 🗄️ **Database Management Systems**
-- 🧩 **Object-Oriented Programming**
-- 🤖 **Machine Learning & AI Fundamentals**
-- 🏗️ **System Design & Operating Systems**
+| | |
+| :--- | :--- |
+| 🧠 **Data Structures & Algorithms** | 🧩 **Object-Oriented Programming** |
+| ⚙️ **Backend Dev & API Design** | 🤖 **Machine Learning & AI** |
+| 🗄️ **Database Management (DBMS)** | 🏗️ **System Design & OS** |
 
 ---
 
