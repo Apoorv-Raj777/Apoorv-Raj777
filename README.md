@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-```bash
+```zsh
 $ whoami
 Apoorv Raj
 
@@ -25,28 +25,18 @@ $ education
 B.E. Artificial Intelligence & Machine Learning
 
 $ interests
-Backend Development
-Full Stack Development
-Artificial Intelligence
-Machine Learning
-Problem Solving
-
-$ currently_learning
-Spring Boot
-System Design
-Advanced DSA
-Modern Web Development
+Backend Development • Full Stack Development • AI & Machine Learning • Problem Solving
 
 $ motto
 "Build solutions that create real-world impact."
 ```
 
-- 🎓 Artificial Intelligence & Machine Learning Undergraduate
-- 💻 Passionate about Backend and Full Stack Development
-- 🤖 Interested in AI, Machine Learning, and Data-Driven Systems
-- 🚀 Building scalable applications using Flask, PHP, and REST APIs
-- 📚 Preparing for Product-Based Company Placements
-- 🧩 Consistently improving DSA and Problem-Solving skills
+- 🎓 **AIML Undergraduate** — Pursuing B.E. in Artificial Intelligence & Machine Learning.
+- 💻 **Backend & Full Stack Developer** — Passionate about building robust, scalable applications.
+- 🤖 **AI & ML Enthusiast** — Deeply interested in artificial intelligence, machine learning, and data-driven systems.
+- 🚀 **REST API Architect** — Experienced in building secure backend systems with Flask, PHP, and REST APIs.
+- 📚 **Placement Ready** — Actively preparing for product-based placements and technical roles.
+- 🧩 **Problem Solver** — Consistently refining Data Structures & Algorithms (DSA) and logical skills.
 
 ---
 
