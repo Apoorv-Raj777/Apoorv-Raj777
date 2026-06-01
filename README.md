@@ -7,10 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Development;Full+Stack+Web+Development;Artificial+Intelligence+%26+Machine+Learning;Data+Structures+%26+Algorithms;Always+Learning+Something+New" />
 
-<br/>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Apoorv-Raj777&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -80,6 +76,10 @@ $ motto
 ---
 
 ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorv-Raj777&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Apoorv-Raj777&show_icons=true&theme=tokyonight" />
